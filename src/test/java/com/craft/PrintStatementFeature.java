@@ -1,6 +1,5 @@
 package com.craft;
 
-import org.junit.Before;
 import org.junit.Test;
 import org.mockito.InOrder;
 
